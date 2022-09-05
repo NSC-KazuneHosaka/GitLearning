@@ -14,6 +14,8 @@ public class Main {
     public static void main(String args[]){
         
         System.out.println("機能１");
+        
+        System.out.println("機能２");
 
     }
     
