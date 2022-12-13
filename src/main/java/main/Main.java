@@ -13,15 +13,15 @@ public class Main {
     
     public static void main(String args[]){
         
-        System.out.println("機能１");
+        System.out.println("機能1");
         
-        System.out.println("機能２");
+        System.out.println("機能2");
 
-        System.out.println("機能３");
+        System.out.println("機能3");
         
-        System.out.println("機能４");
+        System.out.println("機能4");
         
-        System.out.println("機能５");
+        System.out.println("機能5");
     }
     
 }
