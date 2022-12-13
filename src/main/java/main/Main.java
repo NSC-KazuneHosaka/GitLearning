@@ -20,7 +20,8 @@ public class Main {
         System.out.println("機能３");
         
         System.out.println("機能４");
-
+        
+        System.out.println("機能５");
     }
     
 }
